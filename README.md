@@ -1,2 +1,1 @@
-# JSON-
-small project for training
+small project(JSON, AJAX)
