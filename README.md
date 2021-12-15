@@ -1,1 +1,1 @@
-small project(JSON, AJAX)
+This is a simple project to learn (JSON, AJAX).
